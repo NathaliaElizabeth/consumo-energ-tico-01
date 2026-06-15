@@ -1,7 +1,7 @@
 # Cálculo del tiempo de llenado de un tanque en horas
 #Nathalia Elizabeth Guano Pillajo
 #09 de Junio de 2026
-#Versión Github: 
+#Versión Github: https://github.com/NathaliaElizabeth/consumo-energ-tico-01.git
 zona = input("ingrese la zona (rural,urbano o industrial):").strip().lower()
 kw = float(input("Ingrese la potencia en kw:"))
 h = float(input("Ingrese las horas de uso:"))
